@@ -29,7 +29,7 @@ const SegmentPopup = (props) => {
       <form className='segment-popup-form-container' ref = {modalRef}>
         <PageHeader text = 'Saving Segment' isOpenPopup = {openPopup} closePopup = {setOpenPopup}/>
         <SegmentNameInput setInputData = {setInputData} inputData = {inputData} />
-        <p>To save your segment, you need to add the schemas to build the query {inputData}</p>
+        <p>To save your segment, you need to add the schemas to build the query </p>
         <Traits />
         <NewSchemaDropdown setArray = {setArray}array = {array}/>
         <SchemaDropdown addSchemaObject={addSchemaObject}  setAddSchema = {setAddSchema} array = {array} />
