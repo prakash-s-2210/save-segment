@@ -4,3 +4,4 @@ This project involves creating a page that allows users to save a segment by cli
 Additionally, there is a link labeled "+Add new schema" that, when clicked, adds a new dropdown to the blue box. The newly added dropdown can be changed, and it should have options that are not yet selected. Once the new dropdown is added, the "Add schema to segment" dropdown should reset and have unselected options.
 
 Overall, this project is aimed at creating a user-friendly interface for saving segments in a convenient and organized manner.
+ 
